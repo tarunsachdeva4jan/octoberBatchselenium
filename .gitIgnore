@@ -1,0 +1,7 @@
+.idea/
+RoughNotes.txt
+target/**
+src/test/resources/binaries/**
+src/test/resources/screenshots/**
+src/test/resources/extentReports/**
+.DS_Store

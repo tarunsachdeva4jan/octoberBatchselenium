@@ -1,0 +1,31 @@
+{
+  "loginTestData": [
+    {
+      "username": "AdminPre",
+      "password": "admin123",
+      "accountName": "Tarun Sachdeva"
+    },
+    {
+      "username": "Admin",
+      "password": "admin456",
+      "accountName": "Ravneet"
+    }
+  ],
+  "registrationTestData": [
+    {
+      "firstName": "Tarun",
+      "lastName": "Sachdeva",
+      "phoneNumber": "1234567890",
+      "address": "xaz bremmer road, toronto"
+    }
+  ],
+  "bankTestData": [
+    {
+      "accountNumber": "",
+      "passcode": "",
+      "cvv": "",
+      "expiryDate": ""
+    }
+  ]
+}
+
